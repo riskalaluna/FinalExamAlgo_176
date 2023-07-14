@@ -117,7 +117,7 @@ public:
 	return 0;
 }
 
-//2. Linked List (double dan single), stack array
+//2. Linked List (double), stack array
 //3. algoritma queue adalah algoritma dengan sistem FIFO (first in first out) jadi elemen yang pertama masuk itu akan menjadi elemen yang pertama keluar. 
 //Front adalah elemen yang akan dikeluarkan/ elemen pertama, sedangkan Rear adalah elemen yang baru saja dimasukkan. Jika kita ingin mengeluarkan output maka yang pertama keluar adalah angka 10.
 //Apabila menambahkan elemen baru maka dari rear (index 4) kemudian angka di index 3 akan bergeser ke index 2 dan di index 4 akan bergeser ke index 3, begitu seterusnya bila ingin memasukkan elemen lagi.
